@@ -1,0 +1,2 @@
+class Profileimage < ApplicationRecord
+end
